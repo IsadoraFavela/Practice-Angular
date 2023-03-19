@@ -1,0 +1,8 @@
+header {
+  background-color: #36486b;
+  height: var(--toolbar-height);
+}
+h1 {
+  color: bisque;
+  text-align: center;
+}
